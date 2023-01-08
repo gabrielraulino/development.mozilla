@@ -3,4 +3,5 @@ html {font-size: 12px; /* px significa "pixels": o tamanho da fonte base é agor
 }
 h1{
   font-size: 60px;
+  text-align: center;
 }
